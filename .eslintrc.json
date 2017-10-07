@@ -135,7 +135,6 @@
     "no-proto": "error",
     "no-restricted-syntax": [
       "error",
-      "ForStatement",
       "ForInStatement",
       "ForOfStatement",
       "LabeledStatement",
